@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dany Lopes Mota, is my nick name to my works is @BabaYaga
 - 👀 I’m interested in make great projects with great tecnolagies. 
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Dart and building a great VR game with UE4 
 - 💞️ I’m looking to collaborate on big aventures to become a great project manager and great developer
 - 📫 How to reach me geral@danymota.com
 
