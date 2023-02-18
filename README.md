@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dany Lopes Mota, is my nick name to my works is @BabaYaga
+- 👋 Hi, I’m Dany Lopes Mota
 - 👀 I’m interested in make great projects with great tecnolagies. 
-- 🌱 I’m currently learning Dart and building a great VR game with UE4 
+- 🌱 I’m currently working with Flutter and building a great VR game with UE4 
 - 💞️ I’m looking to collaborate on big aventures to become a great project manager and great developer
-- 📫 How to reach me geral@danymota.com
+- 📫 How to reach me, danymota.com
 
 <!---
 MonsterOfCode/MonsterOfCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
